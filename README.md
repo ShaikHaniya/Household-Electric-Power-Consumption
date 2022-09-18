@@ -38,7 +38,7 @@ One alternative is to read the data from just those dates rather than reading in
 You may find it useful to convert the Date and Time variables to Date/Time classes in R using the \color{red}{\verb|strptime()|}strptime() 
 and \color{red}{\verb|as.Date()|}as.Date() functions.
 
-Note that in this dataset missing values are coded as  \color{red}{\verb|?|}?.
+Note that in this dataset missing values are coded as ?.
 
 MAKING PLOTS:
 
